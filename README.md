@@ -1,6 +1,6 @@
 # Trireme Project
 
-<img src="docs/trireme.png" width="400">
+<img src="https://github.com/aporeto-inc/trireme-lib/blob/master/docs/trireme.png" width="400">
 
 This is the meta-repo for the Zero-Trust Trireme project.
 
