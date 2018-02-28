@@ -24,6 +24,8 @@ The following projects use Trireme-lib:
 
 ## Other libraries//utilities maintained as part of the Trireme umbrella
 
+- [Trireme-CSR](https://github.com/aporeto-inc/trireme-csr) is a library that generates certificates for Trireme based on a CSR. This library got an implementation that is ready to run on Kubernetes as a controller.
+- [Trireme-Statistics](https://github.com/aporeto-inc/trireme-statistics) is an implementation of the `collector` interface for Trireme that sends all statistics to InfluxDB. It also contains some example implementation of visualization based on InfluxB, Grafana and Chronograf.
 - [Kubepox](https://github.com/aporeto-inc/kubepox). The Kubernetes Policy eXploration tool is a simple library//executable that can be used in order to decide which NetworkPolicy applies to which set of pods or vcice-versa.
 - [TG](https://github.com/aporeto-inc/tg)
 - [Apobeer](https://github.com/aporeto-inc/apobeer) A simple policed demo application that can be deployed on multiple orchestration platforms.
